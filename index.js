@@ -4,6 +4,6 @@ class Foo extends Extensible {
 
   methodB() {
 
-    this.me
+    this.methodA();
   }
 }
